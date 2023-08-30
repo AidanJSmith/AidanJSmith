@@ -11,14 +11,14 @@ In addition to loving computers (duh!), my interests include history, linguistic
 
 
 ### Currently I'm... :shipit:
-- Taking off the month of July to hike the entire [Colorado Trail](https://coloradotrail.org) alone. ⛰️
 - Building neat software ahead of Neuralink's human studies 💻
 - Finally getting around to reading Gödel Escher Bach 📘
 
+
 ### Previously, I... 👨‍💻
 - Worked as a Software Engineer for Chess.com, where I built lots of neat features and played a lot of chess ♟️
-- Wrote over 100,000 words of notes in markdown and latex in [Obsidian](https://obsidian.md/) for my classes... and curiousity
 - Built [Neuralink's Website](Neuralink.com)
+- Took off a month to hike the entire [Colorado Trail](https://coloradotrail.org) alone. ⛰️
 - Won NuevaHacks III out of over 400 teams with some friendos
 
 ### Let's chat! 📫 
