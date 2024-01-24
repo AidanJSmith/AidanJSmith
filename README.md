@@ -5,7 +5,7 @@ In addition to loving computers (duh!), my interests include history, linguistic
 
 ### Currently I'm... :shipit:
 - Building neat software ahead of Neuralink's human studies 💻
-- Going to TreehHacks 2024 — catch me in Palo Alto 🌲!
+- Going to TreeHacks 2024 — catch me in Palo Alto 🌲!
 
 ### Previously, I... 👨‍💻
 - Worked as a Software Engineer for Chess.com, where I built lots of neat features and played a lot of chess ♟️
