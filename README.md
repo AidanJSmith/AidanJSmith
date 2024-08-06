@@ -10,6 +10,6 @@ In addition to loving computers (duh!), my interests include history, linguistic
 
 ### Previously, I... 👨‍💻
 - Worked as a Software Engineer for Chess.com, where I built lots of neat features and played a lot of chess ♟️
-- Built [Neuralink's Website](Neuralink.com)
+- Built [Neuralink's Website](https://www.neuralink.com)
 - Took off a month to hike the entire [Colorado Trail](https://coloradotrail.org) alone. ⛰️
 - Won NuevaHacks III out of over 400 teams with some friendos
