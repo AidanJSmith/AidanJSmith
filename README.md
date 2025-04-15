@@ -1,15 +1,13 @@
 ## 👋 Howdy, I'm Aidan!
 
-I'm a full-time software engineer at Neuralink and a focused student at Georgia Tech (simulataneously 🛬 🛫).
+I'm a software engineer at Neuralink (and former Georgia Tech supercommuter).
 
 In addition to loving computers (duh!), my interests include history, linguistics, psychology, and the relationship between humans and nature.
 
 ### Currently I'm... :shipit:
-- Building neat software for of Neuralink's human studies 💻. My main focus right now is doing ML research and deploying novel models at scale.
-- Working on react+wasm stuff.
-- Exploring PDM signal processing
-- Brushing up on my multivariate statistics for fun
-- Reading Joan Didion
+- Building neat software for Neuralink's human studies 💻. My main focus right now is doing ML research and deploying novel models at scale.
+- Getting read to bike the Tour Divide 🚴
+- Doing some alignment research for fun
 
 ### Previously, I... 👨‍💻
 - Worked as a full time Software Engineer for Chess.com (started @16!), where I built lots of neat features and played a lot of chess ♟️
