@@ -10,8 +10,7 @@ In addition to loving computers (duh!), my interests include history, linguistic
 - Doing some alignment research for fun
 
 ### Previously, I... 👨‍💻
-- Built neat software for Neuralink's human studies 💻. My main focus right now is doing ML research and deploying novel models at scale.
+- Built neat software for Neuralink's human studies 💻. I did novel machine learning research, wrote neuralink.com, and made games for monkeys.
 - Worked as a full time Software Engineer for Chess.com (started @16!), where I built lots of neat features and played a lot of chess ♟️
-- Built [Neuralink's Website](https://www.neuralink.com)
 - Took off a month to hike the entire [Colorado Trail](https://coloradotrail.org) alone. ⛰️
 - Won NuevaHacks III out of over 400 teams with some friendos
