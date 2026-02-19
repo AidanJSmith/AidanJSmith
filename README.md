@@ -1,6 +1,6 @@
 ## 👋 Howdy, I'm Aidan!
 
-I'm a thiel fellow building my own thing — but I used to be a software engineer at Neuralink (and Georgia Tech supercommuter +_+).
+I'm making airplanes flap. Once, I worked @neuralink and did the thiel fellowship. Da Vinci was right!
 
 In addition to loving computers (duh!), my interests include history, linguistics, psychology, and the relationship between humans and nature.
 
